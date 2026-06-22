@@ -1,6 +1,6 @@
-# 小样本学习分类系统 (Few-Shot Learning Classification System)
+# 小样本学习分类 (Few-Shot Learning Classification)
 
-基于元学习的小样本图像分类系统，支持多种数据集和模型架构，提供可视化分析功能。
+基于元学习的小样本图像分类，支持多种数据集和模型架构，提供可视化分析功能。
 
 
 ## 项目简介
